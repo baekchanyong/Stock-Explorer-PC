@@ -1,4 +1,4 @@
 {
-  "blocked_versions": [2.0],
+  "blocked_versions": ["2.0"],
   "blocked_message": "이 버전은 심각한 오류로 인해 사용이 중단되었습니다.\n최신 버전으로 업데이트 해주세요."
 }
