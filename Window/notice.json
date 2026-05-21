@@ -6,6 +6,7 @@
     
     {"text": "2단계 : ", "font_size": 14, "text_color": "yellow"},
     {"text": "시장의 관심도가 높을 만한 주식 선정\n", "font_size": 12, "text_color": "white"},
+    {"text": "(아무리 저평가된 주식이라도 시장의 관심이 없으면 주가 상승X)", "font_size": 11, "text_color": "gray"}
     
     {"text": "3단계 : ", "font_size": 14, "text_color": "yellow"},
     {"text": "미래에도 실적이 유지되거나 상승할만한 주식 선정\n", "font_size": 12, "text_color": "white"},
