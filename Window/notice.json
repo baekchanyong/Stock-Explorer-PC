@@ -1,6 +1,6 @@
 {
   "notice": [
-    {"text": "주식선정 3단계 : ", "font_size": 18, "text_color": "green"},
+    {"text": "주식선정 3단계\n : ", "font_size": 18, "text_color": "green"},
     {"text": "1단계 : ", "font_size": 14, "text_color": "yellow"},
     {"text": "괴리율이 높은 주식 선정\n", "font_size": 12, "text_color": "white"},
     
