@@ -12,6 +12,6 @@
     
     {"text": "3단계 : ", "font_size": 12, "text_color": "yellow"},
     {"text": "미래에도 실적이 유지되거나 상승할만한 주식 선정\n", "font_size": 10, "text_color": "white"},
-    {"text": "(미래에 이익이나 부채등이 하락하면, 적정주가가 하락하여 현재 주가로 수렴 가능성)", "font_size": 10, "text_color": "gray"}
+    {"text": "(미래에 이익이나 자본 등이 하락하고 부채가 증가하면, 적정주가가 하락하여 현재 주가로 수렴 가능성)", "font_size": 10, "text_color": "gray"}
   ]
 }
